@@ -1,0 +1,285 @@
+{"data" : [
+	{
+		"username": "Accorhotels",
+		"type"	: "salariées",
+		"estimated_emp": 15072,
+		"name"	: "Accor Hotels"
+	},
+	{
+		"username": "AirFranceFR",
+		"type"	: "salariées",
+		"estimated_emp": 9202,
+		"name"	: "Air France"
+	},
+	{
+		"username": "AlcatelLucent",
+		"type"	: "salariées",
+		"estimated_emp": 4992,
+		"name"	: "Alcatel Lucent"
+	},
+	{
+		"username": "Alstom",
+		"type"	: "salariées",
+		"estimated_emp": 2952,
+		"name"	: "Alstom"
+	},
+	{
+		"username": "AREVAfr",
+		"type"	: "salariées",
+		"estimated_emp": 3950,
+		"name"	: "Areva"
+	},
+	{
+		"username": "aphp",
+		"type"	: "agentes",
+		"estimated_emp": 11100,
+		"name"	: "APHP"
+	},
+	{
+		"username": "GroupeBouygues",
+		"type"	: "salariées",
+		"estimated_emp": 3484,
+		"name"	: "Bouygues"
+	},
+	{
+		"username": "Capgemini",
+		"type"	: "salariées",
+		"estimated_emp": 7280,
+		"name"	: "Capgemini"
+	},
+	{
+		"username": "GroupeCarrefour",
+		"type"	: "salariées",
+		"estimated_emp": 52440,
+		"name"	: "Carrefour"
+	},
+	{
+		"username": "GroupeColas",
+		"type"	: "salariées",
+		"estimated_emp": 1440,
+		"name"	: "Colas"
+	},
+	{
+		"username": "DanoneFR",
+		"type"	: "salariées",
+		"estimated_emp": 4860,
+		"name"	: "Danone"
+	},
+	{
+		"username": "EDFofficiel",
+		"type"	: "salariées",
+		"estimated_emp": 8450,
+		"name"	: "EDF"
+	},
+	{
+		"username": "EducationFrance",
+		"type"	: "agentes",
+		"estimated_emp": 139860,
+		"name"	: "Éducation Nationale"
+	},
+	{
+		"username": "EiffageConstruc",
+		"type"	: "salariées",
+		"estimated_emp": 1440,
+		"name"	: "Eiffage"
+	},
+	{
+		"username": "Elior_France",
+		"type"	: "salariées",
+		"estimated_emp": 6900,
+		"name"	: "Elior"
+	},
+	{
+		"username": "ENGIEgroup",
+		"type"	: "salariées",
+		"estimated_emp": 9720,
+		"name"	: "Engie"
+	},
+	{
+		"username": "Faurecia",
+		"type"	: "salariées",
+		"estimated_emp": 2800,
+		"name"	: "Faurecia"
+	},
+	{
+		"username": "intermarche",
+		"type"	: "salariées",
+		"estimated_emp": 14300,
+		"name"	: "Intermarché"
+	},
+	{
+		"username": "KeringGroup",
+		"type"	: "salariées",
+		"estimated_emp": 8030,
+		"name"	: "Kering"
+	},
+	{
+		"username": "Loreal",
+		"type"	: "salariées",
+		"estimated_emp": 8190,
+		"name"	: "L'Oréal"
+	},
+	{
+		"username": "GroupeLaPoste",
+		"type"	: "salariées",
+		"estimated_emp": 37310,
+		"name"	: "La Poste"
+	},
+	{
+		"username": "LafargeHolcim",
+		"type"	: "salariées",
+		"estimated_emp": 2652,
+		"name"	: "Lafarge-Holcim"
+	},
+	{
+		"username": "LeclercBonPlan",
+		"type"	: "salariées",
+		"estimated_emp": 9460,
+		"name"	: "Leclerc"
+	},
+	{
+		"username": "LVMH",
+		"type"	: "salariées",
+		"estimated_emp": 10780,
+		"name"	: "LVMH"
+	},
+	{
+		"username": "McDonalds",
+		"type"	: "salariées",
+		"estimated_emp": 5900,
+		"name"	: "McDonalds"
+	},
+	{
+		"username": "Michelin",
+		"type"	: "salariées",
+		"estimated_emp": 3924,
+		"name"	: "Michelin"
+	},
+	{
+		"username": "Place_Beauvau",
+		"type"	: "agentes",
+		"estimated_emp": 12600,
+		"name"	: "Ministère de l'Intérieur"
+	},
+	{
+		"username": "_Bercy_",
+		"type"	: "agentes",
+		"estimated_emp": 15300,
+		"name"	: "Ministère de l'Économie"
+	},
+	{
+		"username": "Defense_gouv",
+		"type"	: "agentes",
+		"estimated_emp": 21760,
+		"name"	: "Ministère de la Défense"
+	},
+	{
+		"username": "orange",
+		"type"	: "salariées",
+		"estimated_emp": 13032,
+		"name"	: "Orange"
+	},
+	{
+		"username": "Peugeot",
+		"type"	: "salariées",
+		"estimated_emp": 8184,
+		"name"	: "Peugeot"
+	},
+	{
+		"username": "GroupeRATP",
+		"type"	: "salariées",
+		"estimated_emp": 2400,
+		"name"	: "RATP"
+	},
+	{
+		"username": "Groupe_Renault",
+		"type"	: "salariées",
+		"estimated_emp": 4148,
+		"name"	: "Renauld"
+	},
+	{
+		"username": "SAFRAN",
+		"type"	: "salariées",
+		"estimated_emp": 2970,
+		"name"	: "Safran"
+	},
+	{
+		"username": "saintgobain",
+		"type"	: "salariées",
+		"estimated_emp": 7770,
+		"name"	: "Saint-Gobain"
+	},
+	{
+		"username": "sanofifr",
+		"type"	: "salariées",
+		"estimated_emp": 9870,
+		"name"	: "Sanofi"
+	},
+	{
+		"username": "SchneiderElecFR",
+		"type"	: "salariées",
+		"estimated_emp": 4898,
+		"name"	: "Schneider Electric"
+	},
+	{
+		"username": "SNCF",
+		"type"	: "salariées",
+		"estimated_emp": 8400,
+		"name"	: "SNCF"
+	},
+	{
+		"username": "SodexoGroup",
+		"type"	: "salariées",
+		"estimated_emp": 36400,
+		"name"	: "Sodexo"
+	},
+	{
+		"username": "TeleperFrance",
+		"type"	: "salariées",			
+		"estimated_emp": 10100,
+		"name"	: "Teleperformance"
+	},
+	{
+		"username": "thalesgroup",
+		"type"	: "salariées",
+		"estimated_emp": 2600,
+		"name"	: "Thalès"
+	},
+	{
+		"username": "Total",
+		"type"	: "salariées",
+		"estimated_emp": 6144,
+		"name"	: "Total"
+	},
+	{
+		"username": "transdev",
+		"type"	: "salariées",
+		"estimated_emp": 2400,
+		"name"	: "Transdev"
+	},
+	{
+		"username": "Valeo_Group",
+		"type"	: "salariées",
+		"estimated_emp": 3328,
+		"name"	: "Valeo"
+	},
+	{
+		"username": "veolia_fr",
+		"type"	: "salariées",
+		"estimated_emp": 12520,
+		"name"	: "Veolia"
+	},
+	{
+		"username": "VINCI_fr",
+		"type"	: "salariées",
+		"estimated_emp": 4134,
+		"name"	: "Vinci"
+	},
+	{
+		"username": "vivendi",
+		"type"	: "salariées",
+		"estimated_emp":3724,
+		"name" : "Vivendi"
+	}
+]} 
+
